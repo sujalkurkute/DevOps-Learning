@@ -20,3 +20,15 @@ Today i successfully :
 -Understand Difference Between
   a)Absolute Path & b)Relative Path
   
+##Day 3:Undestand the basic commands of Linux 
+
+-creating a directory 
+-changing directory
+-creating a file in directory
+-removing files from directory
+-printing a message from "echo" command
+-creating hidden files
+-observing hidden files
+-moving files to destination and many more
+
+
