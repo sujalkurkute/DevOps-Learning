@@ -32,3 +32,28 @@ Today i successfully :
 -moving files to destination and many more
 
 
+##Day 4: User and File Management of Linux
+
+-User Management 
+  whoami, who, id
+  adduser, deluser
+  passwd
+  su, sudo
+  groups
+
+-File Management
+  ls, pwd, cd
+  mkdir, rmdir
+  touch
+  cp, mv
+  rm, rm -r
+
+-Permissions
+  chmod
+  chown
+  chgrp
+  ls -l
+
+
+
+
