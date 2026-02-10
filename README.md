@@ -54,6 +54,15 @@ Today i successfully :
   chgrp
   ls -l
 
+##Day 5: Group Management commands in linux
+groupadd,
+groupdel,
+gropumod,
+getent,
+groups,
+usermod,
+gpasswd,
+
 
 
 
