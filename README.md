@@ -64,5 +64,6 @@ usermod,
 gpasswd,
 
 
+##Day 6: Started a Networking Basics 
 
 
