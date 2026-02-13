@@ -66,4 +66,12 @@ gpasswd,
 
 ##Day 6: Started a Networking Basics 
 
-
+##Day 7: Completed a OSI model
+-its all layers
+Application Layer
+Presentation Layer
+Session Layer
+Transport Layer
+Network Layer
+Data Link Layer
+Physical Layer
