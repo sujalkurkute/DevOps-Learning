@@ -75,3 +75,6 @@ Transport Layer
 Network Layer
 Data Link Layer
 Physical Layer
+
+##Day 8: completed networking 
+all computer network basics cleared 
