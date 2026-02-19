@@ -78,3 +78,9 @@ Physical Layer
 
 ##Day 8: completed networking 
 all computer network basics cleared 
+
+##Day 9: Started Docker 
+
+-Download and setup Docker
+-created some images and containers in docker
+
