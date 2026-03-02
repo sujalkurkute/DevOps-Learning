@@ -94,5 +94,14 @@ all computer network basics cleared
  -Stopping Container
  -Deleting container
  -deleting images
- 
+ -Docker Image layers
+   --------------------
+   |   Container      |
+   --------------------
+   |   Layer 2        |
+   --------------------
+   |   Layer 1        |
+   --------------------
+   |  Base Layer      |
+   --------------------
 
