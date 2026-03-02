@@ -84,3 +84,15 @@ all computer network basics cleared
 -Download and setup Docker
 -created some images and containers in docker
 
+
+<===============End sem Examinations================>
+
+
+##Day 10 : Docker Basic commands
+ -pulling from docker hub
+ -Starting container
+ -Stopping Container
+ -Deleting container
+ -deleting images
+ 
+
