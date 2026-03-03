@@ -105,3 +105,11 @@ all computer network basics cleared
    |  Base Layer      |
    --------------------
 
+
+
+##Day 11: Port Bnding
+ and Troubleshoot commands
+ -docker logs CONT_ID
+ -docker exec -it CONT_ID/bin/bash
+ -docker exec -it CONT_ID/bin/sh
+ 
