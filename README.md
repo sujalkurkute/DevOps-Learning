@@ -112,4 +112,14 @@ all computer network basics cleared
  -docker logs CONT_ID
  -docker exec -it CONT_ID/bin/bash
  -docker exec -it CONT_ID/bin/sh
- 
+
+
+ ## Docker VS Virtual Machine
+
+ ---------------------
+ |  Application Layer |
+ ----------------------
+ |  Host OS kernel    |
+ ----------------------
+ |  Hardware Layer    |
+ ----------------------
