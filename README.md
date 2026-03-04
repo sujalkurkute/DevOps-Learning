@@ -123,3 +123,6 @@ all computer network basics cleared
  ----------------------
  |  Hardware Layer    |
  ----------------------
+
+##Day 12: Docker Compose
+  - Docker compose is a tool which is used for defining and running multiple container applications
