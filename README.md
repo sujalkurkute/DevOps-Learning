@@ -126,3 +126,7 @@ all computer network basics cleared
 
 ##Day 12: Docker Compose
   - Docker compose is a tool which is used for defining and running multiple container applications
+   -Docker compose -f fileName.yaml up -d
+         It is used for to start the container in detach mode
+    -Docker compose -f fileName.yaml down
+         It is used for to stop the container
