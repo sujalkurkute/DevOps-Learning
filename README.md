@@ -130,3 +130,14 @@ all computer network basics cleared
          It is used for to start the container in detach mode
     -Docker compose -f fileName.yaml down
          It is used for to stop the container
+
+##Day 13: Dockerizing our app
+-Important Docker file Instructions
+a)FROM <image> : This specifies base image that the build will extend
+b)WORKDIR <path> : This specifies working directory or path in the image where files will be copied and commands will be executed.
+c)COPY <host-path> <image-path> : this instruction tells the builder to copy files from the host and put them into the container image.
+D)RUN <command> : This instruction tells the builder to run the specified command.
+E)ENV <name> <value> : This instruction sets an environment variable that a running container will use.
+F)EXPOSE <port-number> : This instruction sets configuration on the image that indicates a port the image would like to expose.
+G)USER <user-or-uid> : This instruction sets the default user for all subsequent instructions.
+H)CMD ["<command>", "<arg1>"] : This instruction sets the default command a container using this image will run.
