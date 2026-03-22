@@ -143,5 +143,5 @@ G)USER <user-or-uid> : This instruction sets the default user for all subsequent
 H)CMD ["<command>", "<arg1>"] : This instruction sets the default command a container using this image will run.
 
 
-##Day 14:Staeted a Kubernetes(K8n)
--Learns about K8n Architecture
+##Day 14:Staeted a Kubernetes(K8s)
+-Learns about K8s Architecture
