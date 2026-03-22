@@ -141,3 +141,7 @@ E)ENV <name> <value> : This instruction sets an environment variable that a runn
 F)EXPOSE <port-number> : This instruction sets configuration on the image that indicates a port the image would like to expose.
 G)USER <user-or-uid> : This instruction sets the default user for all subsequent instructions.
 H)CMD ["<command>", "<arg1>"] : This instruction sets the default command a container using this image will run.
+
+
+##Day 14:Staeted a Kubernetes(K8n)
+-Learns about K8n Architecture
